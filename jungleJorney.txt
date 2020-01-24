@@ -7,3 +7,4 @@ List of elements we need:
 2. torch
 3. A repellent
 4. A sunscreen
+5. A hat
